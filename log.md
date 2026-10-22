@@ -20,3 +20,5 @@ The debugging duck has been found in a desk drawer. Dr. Honk denies everything.
 
 Mission control reminds all crew members that it does not accept pushes.
 Make your own copies of this log.
+
+New entry: Dr. Honk checked the supplies for our next mission.
